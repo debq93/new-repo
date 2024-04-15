@@ -1,10 +1,20 @@
 .title {
-  font-size: 14px;
+  font-style: bold;
+  font-size: 30px;
   font-weight: 200;
   align-items: center;
+  color: blue;
 }
 
 .subtitle {
-  font-size: 10px;
+  font-size: 22px;
+  font-style: semi-bold;
   text-decoration-line: underline;
+  color: cyan;
+}
+
+.description {
+  font-size: 14px;
+  color: black;
+  font-style: italic;
 }
